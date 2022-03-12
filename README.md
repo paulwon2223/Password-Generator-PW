@@ -10,3 +10,17 @@
 
 - To display the final password, a 'return' method was used on variable called 'password', which contained all the result of the different criteria.
 
+### Additional Attachments:
+- link to Github repository: https://github.com/paulwon2223/Personal-Portfolio-PW
+- link to Github page: https://paulwon2223.github.io/Password-Generator-PW/
+
+![img](./img/ss1.png)
+![img](./img/ss2.png)
+
+
+
+
+
+
+
+
